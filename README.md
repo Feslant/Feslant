@@ -3,9 +3,7 @@
 <i>Ben Arda Yağız YILDIZ. Kendisini geliştiren bir Program Geliştiricisi olarak kariyerime odaklanmış, C# ve Web Geliştirme konularında deneyimli biriyim. 2018 yılından bu yana bu alanda kendimi sürekli olarak geliştirmekteyim.
 </i>
 </p>
-<p align="center">
 💬 Benim Hakkımda 
-</p>
 <br>🎓 Manisa Celal Bayar Üniversitesi 2.Sınıf Bilgisayar Programcılığı öğrencisiyim.</br>  
 <br>🚀 Kendimi geliştirmek ve yeni teknolojiler öğrenmek için Full Stack projeler üzerinde çalışıyorum.</br>
 <br>💻 C#, SQL, web (Full Stack) projeleri, yapay zekâ ve 3D Yazıcı teknolojilerle ilgileniyorum.</br> 

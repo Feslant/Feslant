@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Arda Yağız Yıldız </h1>
+<h1 align="center">Arda Yağız Yıldız </h1>
 <p align="center">
 <i>Ben Arda Yağız YILDIZ. Kendisini geliştiren bir Program Geliştiricisi olarak kariyerime odaklanmış, C# ve Web Geliştirme konularında deneyimli biriyim. 2018 yılından bu yana bu alanda kendimi sürekli olarak geliştirmekteyim.
 </i>
